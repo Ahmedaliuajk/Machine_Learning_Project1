@@ -2,40 +2,40 @@
 This project is a simple and interactive movie recommendation system that suggests 5 similar movies based on the content of a user-selected title. Built using Python, machine learning techniques, and Streamlit for the web interface.
 
 🚀 Features
-Recommends 5 similar movies based on content similarity
+-Recommends 5 similar movies based on content similarity
 
-Uses TF-IDF vectorization and cosine similarity
+-Uses TF-IDF vectorization and cosine similarity
 
-Clean and interactive UI built with Streamlit
+-Clean and interactive UI built with Streamlit
 
-Fast and lightweight—runs locally in your browser
+-Fast and lightweight—runs locally in your browser
 
 🧠 How It Works
-Data Preprocessing
+-Data Preprocessing
 
-Cleaned and normalized movie metadata (genres, keywords, overviews)
+-Cleaned and normalized movie metadata (genres, keywords, overviews)
 
-Handled missing values and combined relevant features into a single text field
+-Handled missing values and combined relevant features into a single text field
 
-Feature Extraction
+-Feature Extraction
 
-Applied TF-IDF vectorization to convert text data into numerical vectors
+-Applied TF-IDF vectorization to convert text data into numerical vectors
 
-Similarity Calculation
+-Similarity Calculation
 
-Used cosine similarity to find movies with the most similar content
+-Used cosine similarity to find movies with the most similar content
 
-User Interface
+-User Interface
 
-Built with Streamlit to allow users to select a movie and view recommendations instantly
+-Built with Streamlit to allow users to select a movie and view recommendations instantly
 
 🛠️ Tech Stack
 Python
 
-Pandas & NumPy
+-Pandas & NumPy
 
-Scikit-learn
+-Scikit-learn
 
-Streamlit
+-Streamlit
 
-Git & GitHub
+-Git & GitHub
